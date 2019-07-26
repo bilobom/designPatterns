@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "inclined_solution.Main",
+            "projectName": "Dependency Inversion_a6d57f8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "inclined_solution.Program",
+            "projectName": "Dependency Inversion_a6d57f8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "problematic.Program",
+            "projectName": "Dependency Inversion_a6d57f8"
+        }
+    ]
+}

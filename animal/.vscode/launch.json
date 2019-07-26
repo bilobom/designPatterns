@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zoo",
+            "request": "launch",
+            "mainClass": "Zoo",
+            "projectName": "animal_c4b27165"
+        }
+    ]
+}
